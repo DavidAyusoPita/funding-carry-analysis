@@ -1,0 +1,8 @@
+# Analysis
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+requests>=2.31
+
+# To run the notebook
+jupyter>=1.0

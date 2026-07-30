@@ -96,6 +96,10 @@ That downloads everything and regenerates the figures. The notebook is the narra
 same code path, so the numbers in it and the numbers above cannot drift apart. All data comes from
 public REST endpoints — no API keys, no credentials, nothing authenticated.
 
+The notebook is committed with its outputs, so nothing needs to run to read it:
+[on GitHub](notebooks/01_funding_carry_analysis.ipynb) or
+[on nbviewer](https://nbviewer.org/github/DavidAyusoPita/funding-carry-analysis/blob/main/notebooks/01_funding_carry_analysis.ipynb).
+
 ---
 
 ## Method
